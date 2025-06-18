@@ -1,8 +1,5 @@
-Claro! Abaixo está a versão **em formato de texto simples** do README para o repositório da startup **Feeling Fine**, pronta para ser copiada e usada como arquivo `.txt` ou inserida em qualquer outro tipo de documento:
 
----
-
-**Feeling Fine**
+**FEELING FINE**
 
 Seu bem-estar começa aqui: Autoimagem positiva através de treinos especializados e nutrição inteligente.
 
